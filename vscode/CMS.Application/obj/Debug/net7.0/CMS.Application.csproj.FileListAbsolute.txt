@@ -1,0 +1,38 @@
+C:\Users\Arghya\Desktop\VS code\CMS.Application\bin\Debug\net7.0\CMS.Application.exe
+C:\Users\Arghya\Desktop\VS code\CMS.Application\bin\Debug\net7.0\CMS.Application.deps.json
+C:\Users\Arghya\Desktop\VS code\CMS.Application\bin\Debug\net7.0\CMS.Application.runtimeconfig.json
+C:\Users\Arghya\Desktop\VS code\CMS.Application\bin\Debug\net7.0\CMS.Application.dll
+C:\Users\Arghya\Desktop\VS code\CMS.Application\bin\Debug\net7.0\CMS.Application.pdb
+C:\Users\Arghya\Desktop\VS code\CMS.Application\bin\Debug\net7.0\CMS.UI.MODELS.dll
+C:\Users\Arghya\Desktop\VS code\CMS.Application\bin\Debug\net7.0\CMS.UI.MODELS.pdb
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\CMS.Application.csproj.AssemblyReference.cache
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\CMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\CMS.Application.AssemblyInfoInputs.cache
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\CMS.Application.AssemblyInfo.cs
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\CMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\CMS.Application.csproj.CopyComplete
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\CMS.Application.dll
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\refint\CMS.Application.dll
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\CMS.Application.pdb
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\CMS.Application.genruntimeconfig.cache
+C:\Users\Arghya\Desktop\VS code\CMS.Application\obj\Debug\net7.0\ref\CMS.Application.dll
+C:\Users\Arghya\Desktop\vscode\CMS.Application\bin\Debug\net7.0\CMS.Application.exe
+C:\Users\Arghya\Desktop\vscode\CMS.Application\bin\Debug\net7.0\CMS.Application.deps.json
+C:\Users\Arghya\Desktop\vscode\CMS.Application\bin\Debug\net7.0\CMS.Application.runtimeconfig.json
+C:\Users\Arghya\Desktop\vscode\CMS.Application\bin\Debug\net7.0\CMS.Application.dll
+C:\Users\Arghya\Desktop\vscode\CMS.Application\bin\Debug\net7.0\CMS.Application.pdb
+C:\Users\Arghya\Desktop\vscode\CMS.Application\bin\Debug\net7.0\CMS.UI.MODELS.dll
+C:\Users\Arghya\Desktop\vscode\CMS.Application\bin\Debug\net7.0\CMS.UI.MODELS.pdb
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\CMS.Application.csproj.AssemblyReference.cache
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\CMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\CMS.Application.AssemblyInfoInputs.cache
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\CMS.Application.AssemblyInfo.cs
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\CMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\CMS.Application.csproj.CopyComplete
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\CMS.Application.dll
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\refint\CMS.Application.dll
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\CMS.Application.pdb
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\CMS.Application.genruntimeconfig.cache
+C:\Users\Arghya\Desktop\vscode\CMS.Application\obj\Debug\net7.0\ref\CMS.Application.dll
+C:\Users\Arghya\Desktop\vscode\CMS.Application\bin\Debug\net7.0\CMS.UI.DISPLAY.dll
+C:\Users\Arghya\Desktop\vscode\CMS.Application\bin\Debug\net7.0\CMS.UI.DISPLAY.pdb

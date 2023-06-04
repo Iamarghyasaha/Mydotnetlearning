@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CMS.UI.DISPLAY/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CMS.UI.DISPLAY.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CMS.UI.DISPLAY.dll": {}
+        }
+      },
+      "CMS.UI.MODELS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CMS.UI.MODELS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CMS.UI.MODELS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CMS.UI.DISPLAY/1.0.0": {
+      "type": "project",
+      "path": "../CMS.UI.DISPLAY/CMS.UI.DISPLAY.csproj",
+      "msbuildProject": "../CMS.UI.DISPLAY/CMS.UI.DISPLAY.csproj"
+    },
+    "CMS.UI.MODELS/1.0.0": {
+      "type": "project",
+      "path": "../CMS.UI.MODELS/CMS.UI.MODELS.csproj",
+      "msbuildProject": "../CMS.UI.MODELS/CMS.UI.MODELS.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CMS.UI.DISPLAY >= 1.0.0",
+      "CMS.UI.MODELS >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Arghya\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Arghya\\Desktop\\vscode\\CMS.Application\\CMS.Application.csproj",
+      "projectName": "CMS.Application",
+      "projectPath": "C:\\Users\\Arghya\\Desktop\\vscode\\CMS.Application\\CMS.Application.csproj",
+      "packagesPath": "C:\\Users\\Arghya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Arghya\\Desktop\\vscode\\CMS.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Arghya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Arghya\\Desktop\\vscode\\CMS.UI.DISPLAY\\CMS.UI.DISPLAY.csproj": {
+              "projectPath": "C:\\Users\\Arghya\\Desktop\\vscode\\CMS.UI.DISPLAY\\CMS.UI.DISPLAY.csproj"
+            },
+            "C:\\Users\\Arghya\\Desktop\\vscode\\CMS.UI.MODELS\\CMS.UI.MODELS.csproj": {
+              "projectPath": "C:\\Users\\Arghya\\Desktop\\vscode\\CMS.UI.MODELS\\CMS.UI.MODELS.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

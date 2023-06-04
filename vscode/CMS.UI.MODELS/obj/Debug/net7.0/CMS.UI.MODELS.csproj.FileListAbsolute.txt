@@ -1,0 +1,24 @@
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\bin\Debug\net7.0\CMS.UI.MODELS.deps.json
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\bin\Debug\net7.0\CMS.UI.MODELS.dll
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\bin\Debug\net7.0\CMS.UI.MODELS.pdb
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.csproj.AssemblyReference.cache
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.AssemblyInfoInputs.cache
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.AssemblyInfo.cs
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.dll
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\obj\Debug\net7.0\refint\CMS.UI.MODELS.dll
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.pdb
+C:\Users\Arghya\Desktop\VS code\CMS.UI.MODELS\obj\Debug\net7.0\ref\CMS.UI.MODELS.dll
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\bin\Debug\net7.0\CMS.UI.MODELS.deps.json
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\bin\Debug\net7.0\CMS.UI.MODELS.dll
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\bin\Debug\net7.0\CMS.UI.MODELS.pdb
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.csproj.AssemblyReference.cache
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.AssemblyInfoInputs.cache
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.AssemblyInfo.cs
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.dll
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\obj\Debug\net7.0\refint\CMS.UI.MODELS.dll
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\obj\Debug\net7.0\CMS.UI.MODELS.pdb
+C:\Users\Arghya\Desktop\vscode\CMS.UI.MODELS\obj\Debug\net7.0\ref\CMS.UI.MODELS.dll

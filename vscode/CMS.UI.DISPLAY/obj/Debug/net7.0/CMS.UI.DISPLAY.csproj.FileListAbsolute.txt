@@ -1,0 +1,12 @@
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\bin\Debug\net7.0\CMS.UI.DISPLAY.deps.json
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\bin\Debug\net7.0\CMS.UI.DISPLAY.dll
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\bin\Debug\net7.0\CMS.UI.DISPLAY.pdb
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\obj\Debug\net7.0\CMS.UI.DISPLAY.csproj.AssemblyReference.cache
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\obj\Debug\net7.0\CMS.UI.DISPLAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\obj\Debug\net7.0\CMS.UI.DISPLAY.AssemblyInfoInputs.cache
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\obj\Debug\net7.0\CMS.UI.DISPLAY.AssemblyInfo.cs
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\obj\Debug\net7.0\CMS.UI.DISPLAY.csproj.CoreCompileInputs.cache
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\obj\Debug\net7.0\CMS.UI.DISPLAY.dll
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\obj\Debug\net7.0\refint\CMS.UI.DISPLAY.dll
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\obj\Debug\net7.0\CMS.UI.DISPLAY.pdb
+C:\Users\Arghya\Desktop\vscode\CMS.UI.DISPLAY\obj\Debug\net7.0\ref\CMS.UI.DISPLAY.dll
